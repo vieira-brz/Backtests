@@ -21,12 +21,12 @@ npm install express nodemon mongoose dotenv
 6 - Aws - Virgínia - Cluster name: NomeAPI - Create Cluster
 7 - Connect
 8 - Add Your Current IP Address
-9 - Username: nome e Password: senha-sugerida (salvar na aplicação = VYNIBpXZl5HzxPuMcr)
+9 - Username: nome e Password: senha-sugerida
 10 - Create Database User
 11 - Allow Access - Add IP Address
 12 - Choose a connection method
 13 - Connect your application
-14 - Copiar string conexão (mongodb+srv://suportecpt:<password-VN>@apicluster.kfgnqkj.mongodb.net/)
+14 - Copiar string conexão (mongodb+srv://<user>:<password>@apicluster.kfgnqkj.mongodb.net/)
 ```
 
 ## Status HTTP
